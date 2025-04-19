@@ -33,7 +33,7 @@ The app uses the following tools:
      - [ffmpeg](https://ffmpeg.org/download.html)
      - [spotDL](https://github.com/spotDL/spotify-downloader)
 
-2. **Download the latest release**.
+2. **Download the latest [release](https://github.com/MexCZE/ultimatedownloader3000/releases)**.
 3. **Extract the files anywhere (e.g., your desktop)**.
 4. **Run UltimateDownloader3000.exe** and start downloading!
 
